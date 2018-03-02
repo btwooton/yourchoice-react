@@ -1,0 +1,27 @@
+.topmenu .ui.borderless.top.fixed.fluid.menu {
+  box-shadow: none;
+  height: 70px;
+}
+
+.ui.borderless.top.fixed.fluid.menu .item {
+  color: #4b8a1e;
+  font-weight: bold;
+}
+
+.footer-background {
+  background: linear-gradient(90deg,#4b8a1e,#66bc29,#4b8a1e);
+  padding: 30px 0px 30px;
+  color: white;
+}
+
+h1.ui.header {
+  text-transform: uppercase;
+}
+
+body {
+  font-family: Gotham Narrow,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.ui.three.column.centered.grid.container {
+  padding-left: 100px;
+}
